@@ -1,6 +1,6 @@
 ﻿# Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX
 
-O Objetivo deste projeto foi entender como criar um modelo baseado em star schema no Power BI. O modelo foi criado seguindo os passos da instrutura.
+O Objetivo deste projeto foi entender como criar um modelo baseado em star schema no Power BI. O modelo foi criado seguindo os passos da instrutora.
 ### Estrutura do Projeto
 - Importação dos Dados.
 - Utilização da tabela única de Financial Sample para criação das 4 dimensões e da tabela fato. 
